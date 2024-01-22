@@ -1,0 +1,35 @@
+body{
+    background-color: #66bd48;
+}
+#username{
+    margin: 5px;
+    height: 30px;
+    width: 200px;
+}
+#password{
+    margin: 5px;
+    height: 30px;
+    width: 200px;
+}
+#button{
+        margin: 5px;
+        height: 30px;
+        width: 210px;
+}
+
+div{
+    background-color: white; 
+    border: 5px solid white;
+    box-sizing: border-box;
+    margin-top: 16%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 30%;
+    height: 230px;
+    text-align: center;       
+}
+span{
+    color: #66bd48;
+}
