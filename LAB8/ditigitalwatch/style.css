@@ -1,0 +1,22 @@
+* {
+    background-color: silver;
+}
+
+#main {
+    justify-content: center;
+    display: flex;
+}
+
+#main #digital {
+    margin-top: 200px;
+    width: 400px;
+    border-style: solid;
+    border-color: white;
+    border-width: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+
+#setalarm {
+    border-radius: 20px;
+}

@@ -1,0 +1,47 @@
+ #imag img {
+     width: 500px;
+     height: 500px;
+ }
+
+ #main {
+     justify-content: center;
+     display: flex;
+ }
+
+ #btn {
+     display: flex;
+     justify-content: center;
+ }
+
+ #btn input {
+     margin-left: 10px;
+     margin-right: 20px;
+ }
+
+ #prev_btn {
+     width: 60px;
+     height: 40px;
+     margin-top: 20px;
+     border-radius: 20px;
+ }
+
+ #next_btn {
+     width: 60px;
+     height: 40px;
+     margin-top: 20px;
+     border-radius: 20px;
+ }
+
+ #start_btn {
+     width: 60px;
+     height: 40px;
+     margin-top: 20px;
+     border-radius: 20px;
+ }
+
+ #stop_btn {
+     width: 60px;
+     height: 40px;
+     margin-top: 20px;
+     border-radius: 20px;
+ }
