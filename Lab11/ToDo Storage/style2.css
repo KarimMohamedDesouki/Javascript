@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box; 
+}                       
+p {
+    margin: auto;
+    height: 25px;
+    width: 100px;
+    display: inline;
+}
+
+#name {
+    margin: auto;
+    height: 25px;
+    width: 200px;
+}
+
+#add {
+    margin: auto;
+    height: 30px;
+    width: 100px;
+}
+
+#outer {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid silver;
+    align-items: center;
+    padding: 10px;
+}
+
+#inner {
+    display: flex;
+}
+
+#task p {
+    margin-right: 180px;
+}
+#main{
+    display: flex;
+    justify-content: center;
+}
+.task{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    width: 100%;
+}
